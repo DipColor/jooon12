@@ -209,6 +209,7 @@ function create_config( )
     enabled_plugins = {
       "echo",
       "get",
+      "boobs",
       "tagall",
       "banhammer",
       "google",
