@@ -224,7 +224,6 @@ function create_config( )
       "time",
       "version",
       "weather",
-      "youtube",
       "media_handler",
       "moderation"},
     sudo_users = {147509695,170716752},
