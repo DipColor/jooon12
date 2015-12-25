@@ -213,6 +213,7 @@ function create_config( )
       "banhammer",
       "google",
       "groupmanager",
+      "leave",
       "help",
       "id",
       "location",
