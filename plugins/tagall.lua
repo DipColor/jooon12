@@ -27,8 +27,6 @@ return {
   usage = {
     "/tagall [msg]."
   },
-  patterns = {
-    "^!tagall +(.+)$"
-  },
+  patterns = {"^!tagall$"},
   run = run
 }
