@@ -4,7 +4,8 @@ end
 
 return {
   description = "SPAM", 
-  usage = {use !spam to spam },
+  usage = {use
+!spam to spam},
   patterns = {"^!spam$"}, 
   run = run 
 }
