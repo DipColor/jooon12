@@ -218,6 +218,7 @@ function create_config( )
       "plugins",
       "channels",
       "set",
+      "Anti-bot",
       "stats",
       "time",
       "moderation"},
