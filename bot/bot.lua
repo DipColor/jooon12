@@ -209,12 +209,11 @@ function create_config( )
     enabled_plugins = {
       "echo",
       "get",
+      "banhammer",
       "google",
       "groupmanager",
       "help",
       "id",
-      "images",
-      "img_google",
       "location",
       "plugins",
       "channels",
