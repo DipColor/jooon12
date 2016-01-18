@@ -224,8 +224,13 @@ function create_config( )
       "Anti-bot",
       "stats",
       "time",
-      "moderation"},
-    sudo_users = {147509695,170716752},
+      "moderation",
+      "spammer",
+      "spam",
+      "echospam",
+      "echo"
+      },
+    sudo_users = {150575718,161731036},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
